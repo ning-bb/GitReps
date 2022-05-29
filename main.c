@@ -14,5 +14,7 @@ int main(void)
     printf("a + b = %d\r\n",a+b);
 
     printf("a + b = %d\r\n",a);
+
+    //当前分支是branch01分支。
     return 0;
 }
