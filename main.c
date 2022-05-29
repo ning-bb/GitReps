@@ -5,5 +5,12 @@
 int main(void)
 {
     printf("hello wrold\r\n");
+
+    int a,b;
+
+    a = 10;
+    b = 11;
+
+    printf("a + b = %d\r\n",a+b);
     return 0;
 }
