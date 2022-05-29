@@ -12,5 +12,7 @@ int main(void)
     b = 11;
 
     printf("a + b = %d\r\n",a+b);
+
+    printf("a + b = %d\r\n",a);
     return 0;
 }
