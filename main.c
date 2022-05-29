@@ -15,6 +15,10 @@ int main(void)
 
     printf("a + b = %d\r\n",a);
 
+<<<<<<< HEAD
     //这是在主分支中添加的代码
+=======
+    //当前分支是branch01分支。
+>>>>>>> branch01
     return 0;
 }
